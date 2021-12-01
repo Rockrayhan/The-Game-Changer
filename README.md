@@ -1,6 +1,6 @@
 # The Game Changer
 
-here is the live site link : https://quirky-euler-cdac1b.netlify.app/
+here is the live site link : https://the-game-changer.netlify.app/
 
 
 ## What is in this website 
